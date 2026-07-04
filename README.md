@@ -1,5 +1,7 @@
 # 🌱 Smart Agriculture Assistant Chatbot
 
+live link = https://smartagriculturechatbot-kyun3g8frt4dutnqldxqr6.streamlit.app/
+
 An AI-powered chatbot developed using **Python**, **Streamlit**, and **Google Gemini API**. This chatbot is designed to assist farmers, agriculture students, and IoT enthusiasts by answering agriculture-related questions in a simple and interactive way.
 
 ---
