@@ -61,7 +61,7 @@ Smart_Agriculture_Chatbot/
 ### Step 1: Clone or Download the Project
 
 ```bash
-git clone https://github.com/yourusername/Smart_Agriculture_Chatbot.git
+git clone https://github.com/Shantanu7096/Smart_Agriculture_Chatbot.git
 ```
 
 Or simply download the project folder.
